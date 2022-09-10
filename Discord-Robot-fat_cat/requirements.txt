@@ -1,0 +1,15 @@
+# Date  : 2022/09/08
+# IDE   : VScode
+
+# If you are using vscode, and there is an error in compiling. 
+# Please make sure all modules are capability to read by compiler.
+# (If there are wavy line under the modules, pls add them into .vscode folder(setting.json)).
+
+# The requirements.txt can not be annotated by """ ... """. XD
+
+numpy==1.21.6
+requests==2.27.1
+discord==1.7.3
+discord.py==1.7.3
+yt-dlp==2022.5.18
+beautifulsoup4==4.11.1
