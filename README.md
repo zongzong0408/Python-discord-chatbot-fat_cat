@@ -22,7 +22,7 @@
 
 ## 參考 *References*
 
-> `2022/01/22`：  
+> `2022/10/22`：  
 > - 注意 ***.env*** 是否可用，若無法使用可參考使用 ***.json***
 > - Note whether ***.env*** is available, if not available, please refer to ***.json***
 
