@@ -1,0 +1,7 @@
+numpy==1.21.6
+requests==2.27.1
+discord==1.7.3
+discord.py==1.7.3
+yt-dlp==2022.5.18
+beautifulsoup4==4.11.1
+python-dotenv==0.20.0

@@ -1,0 +1,28 @@
+{
+    "member_channel" :
+    [
+        "1012659876171878420"
+    ],
+    "main_channel" :
+    [
+        "1021286839757312023"
+    ],
+    "earthquake_channel" :
+    [
+        "1021287248215425044",
+        "785524496068640769",
+        "989393460010307634"
+    ],
+    "funny_picture" : 
+    [
+        "https://raw.githubusercontent.com/zongzong0408/Python-Data-Base/main/picture/funny/%20(1).png",
+        "https://raw.githubusercontent.com/zongzong0408/Python-Data-Base/main/picture/funny/%20(2).png",
+        "https://raw.githubusercontent.com/zongzong0408/Python-Data-Base/main/picture/funny/%20(3).png",
+        "https://raw.githubusercontent.com/zongzong0408/Python-Data-Base/main/picture/funny/%20(4).png",
+        "https://raw.githubusercontent.com/zongzong0408/Python-Data-Base/main/picture/funny/%20(5).png",
+        "https://raw.githubusercontent.com/zongzong0408/Python-Data-Base/main/picture/funny/%20(6).png",
+        "https://raw.githubusercontent.com/zongzong0408/Python-Data-Base/main/picture/funny/%20(7).png",
+        "https://raw.githubusercontent.com/zongzong0408/Python-Data-Base/main/picture/funny/%20(8).png",
+        "https://raw.githubusercontent.com/zongzong0408/Python-Data-Base/main/picture/funny/%20(9).png"
+    ]
+}
